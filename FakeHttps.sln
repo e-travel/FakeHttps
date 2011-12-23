@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETravel.Web.FakeHttps", "ETravel.Web.FakeHttps\ETravel.Web.FakeHttps.csproj", "{EF9F7CCD-1F8F-4FF7-96FF-BA29208D30F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{FB12D8C1-E209-4DAD-B39D-50E34FAA1868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9F7CCD-1F8F-4FF7-96FF-BA29208D30F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9F7CCD-1F8F-4FF7-96FF-BA29208D30F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9F7CCD-1F8F-4FF7-96FF-BA29208D30F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9F7CCD-1F8F-4FF7-96FF-BA29208D30F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB12D8C1-E209-4DAD-B39D-50E34FAA1868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB12D8C1-E209-4DAD-B39D-50E34FAA1868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB12D8C1-E209-4DAD-B39D-50E34FAA1868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB12D8C1-E209-4DAD-B39D-50E34FAA1868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
