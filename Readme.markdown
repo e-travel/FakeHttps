@@ -19,7 +19,7 @@ In your web.config, find the *system.webServer* section and add the module. Exam
 <system.webServer>
   <modules runAllManagedModulesForAllRequests="true">
    
-	<add name="FakeHttpModule" type="ETravel.Web.FakeHttps.HttpModule"/>
+	<add name="FakeHttpModule" type="ETravel.Web.FakeHttps.HttpModule, ETravel.Web.FakeHttps"/>
 
     </modules>
 </system.webServer>
